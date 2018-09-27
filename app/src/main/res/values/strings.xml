@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fragment Task</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="town_name">TOWN NAME</string>
+    <string name="map_view">MAP VIEW</string>
+
+    <string name="account">Account</string>
+    <string name="mrtron">mrtron</string>
+    <string name="brisetron_gmail_com">brisetron@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="facilities">Facilities</string>
+    <string name="finance">Finance</string>
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="account_settings">Account settings</string>
+    <string name="chat_settings">Chat settings</string>
+    <string name="search_history">Search history</string>
+    <string name="social_gestures">Social Gestures</string>
+    <string name="chat">Chat</string>
+    <string name="contacts">Contacts</string>
+    <string name="contact_list">Contact List</string>
+    <string name="notifications">Notifications</string>
+    <string name="share_app">Share app</string>
+    <string name="help">Help</string>
+    <string name="exit_app">Exit app</string>
+</resources>
